@@ -1,4 +1,4 @@
-<h1 align="left">Chào! Tôi tên Klix từ Hỏa</h1>
+<h1 align="left">Chào! Tôi tên Klix từ Sao Hỏa</h1>
 
 ###
 
@@ -18,5 +18,12 @@
 
 <div align="left">
 </div>
+
+###
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
